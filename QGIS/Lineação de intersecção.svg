@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5.19202 24.95477">
+  <g id="aaa74915-83d7-41e7-9d61-95f67010c33f" data-name="Layer 2">
+    <g id="f2e2d271-8559-4e9b-b0cf-c2d9e565db06" data-name="Layer 1">
+      <line x1="2.59607" y1="2.27759" x2="2.59607" y2="24.95477" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <polygon points="0.311 4.555 2.596 0 4.881 4.555 2.596 3.897 0.311 4.555" fill="param(fill) #000000" fill-rule="evenodd"/>
+      <line x1="0.30066" y1="11.32098" x2="4.89136" y2="15.91168" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="0.8504"/>
+      <line x1="0.30066" y1="15.91168" x2="4.89136" y2="11.32098" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="0.8504"/>
+    </g>
+  </g>
+</svg>

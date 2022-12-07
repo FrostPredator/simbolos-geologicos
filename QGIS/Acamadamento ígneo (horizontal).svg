@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.40608 18.40611">
+  <g id="a14d65ef-1920-48de-b29b-88b8f09848f0" data-name="Layer 2">
+    <g id="a5cbe17a-ba95-4a53-88c2-4569cfa23289" data-name="Layer 1">
+      <line x1="0.4959" y1="9.20281" x2="17.91018" y2="9.20311" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="9.20278" y1="17.91021" x2="9.20299" y2="0.4959" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="0.4959" y1="7.72619" x2="0.4959" y2="10.67931" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="17.91018" y1="7.72649" x2="17.91018" y2="10.67962" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="7.72619" y1="17.91021" x2="10.67928" y2="17.91021" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="7.72649" y1="0.4959" x2="10.67959" y2="0.4959" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <path d="M9.1968,6.56139c4.1766,0,4.1766,2.64142,4.1766,2.64142H5.03267S5.0205,6.56139,9.1968,6.56139" fill="param(fill) #000000" fill-rule="evenodd"/>
+      <path d="M9.1968,11.84472c4.1766,0,4.1766-2.64161,4.1766-2.64161H5.03267S5.0205,11.84472,9.1968,11.84472" fill="param(fill) #000000" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

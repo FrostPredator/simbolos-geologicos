@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.41432 17.41432">
+  <g id="bd44a211-fd19-4435-a295-56e89bde448e" data-name="Layer 2">
+    <g id="a200e444-d9ea-4030-a3fc-7ebbfd2ca8ee" data-name="Layer 1">
+      <line x1="0.00001" y1="8.70692" x2="17.41432" y2="8.70722" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="8.70692" y1="17.41432" x2="8.70722" y2="0.00001" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <rect x="6.54209" y="6.54212" width="4.33023" height="4.3302" fill="param(fill) #000000"/>
+    </g>
+  </g>
+</svg>

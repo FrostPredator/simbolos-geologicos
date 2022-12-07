@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.33821 6.59875">
+  <g id="fb9078c0-1ba3-4e25-8866-5c3a1156dbac" data-name="Layer 2">
+    <g id="ae29f8d3-db87-4b9e-96e5-5e9968deac8a" data-name="Layer 1">
+      <polyline points="0.496 4.124 10.063 4.124 28.842 4.124" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="0.4959" y1="1.64856" x2="0.4959" y2="6.59875" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <line x1="28.84231" y1="1.64856" x2="28.84231" y2="6.59875" fill="none" stroke="param(fill) #000000" stroke-miterlimit="22.92558" stroke-width="param(outline-width) 0.35"/>
+      <path d="M14.6614,0c5.28689,0,5.28689,4.1239,5.28689,4.1239H9.38991S9.37429,0,14.6614,0" fill="param(fill) #000000" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
